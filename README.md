@@ -1,4 +1,4 @@
-# Hi, I'm Reshma B 👋
+# Reshma B 👋
 
 🎓 Data Science Student at Vellore Institute of Technology  
 📊 Passionate about Data Analytics, Machine Learning & AI  
